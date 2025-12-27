@@ -8,7 +8,7 @@ updatedAt: 1766793600000
 tags:
   - Travel
 heroImage: /posts/bisley-cabinet_thumbnail.jpg
-slug: bisley-cabinet
+slug: finger-lakes
 ---
 
 
