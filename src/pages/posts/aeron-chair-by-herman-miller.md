@@ -3,8 +3,8 @@ description: Work Chair
 public: true
 layout: ../../layouts/BlogPost.astro
 title: The Game of Things
-createdAt: Date.now()
-createdAt: Date.now()
+createdAt: 1735300000000
+updatedAt: 1735300000000
 tags:
   - Games
 heroImage: /posts/aeron-chair-by-herman-miller_thumbnail.jpg
