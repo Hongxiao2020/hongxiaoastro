@@ -1,5 +1,5 @@
 ---
-description: Recovery sandals
+description: 2025 Fall
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Yosemitte
