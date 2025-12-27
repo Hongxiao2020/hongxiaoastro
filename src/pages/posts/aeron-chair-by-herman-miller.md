@@ -11,7 +11,7 @@ heroImage: /posts/aeron-chair-by-herman-miller_thumbnail.jpg
 slug: the-game-of-things
 ---
 
-I love playing [The Game of Things] (https://www.thegameofthings.com/) 
+I love playing [A4 Filing Cabinet](https://www.thegameofthings.com/) 
 for gatherings or after research activities with my RAs, especially when you don’t know how to start a conversation.
 
 ![aeron_chair_2.jpeg](/posts/aeron-chair-by-herman-miller_aeron-chair-2-jpeg.jpg)
