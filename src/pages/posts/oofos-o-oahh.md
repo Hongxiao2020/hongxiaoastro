@@ -6,7 +6,7 @@ title: Yosemitte
 createdAt: 1714113713426
 updatedAt: 1714113846371
 tags:
-  - Desk
+  - Travel
 heroImage: /posts/oofos-o-oahh_thumbnail.jpg
 slug: oofos-o-oahh
 ---
