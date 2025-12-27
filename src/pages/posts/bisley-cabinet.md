@@ -11,14 +11,17 @@ heroImage: /posts/bisley-cabinet_thumbnail.jpg
 slug: finger-lakes
 ---
 
+This is our second time being around finger lakes. Snowfall make here wear a white veil. 
+We first visited the Women’s Rights Museum. It was really interesting how they compare 
+Haudenosaunee women’s rights with those of white Europeans, and how Indigenous values 
+influenced what happened here. 
 
-I've got a filing cabinet to organize small stuff like USB cables and adapters.
-I chose Bisley because it offers various tray options.
+There is a chapel next to the museum, and they have preserved the building’s original structure.
 
 ![bisley_2](/posts/bisley-cabinet_bisley-2.jpg)
 
-It can also attach casters, which is neat.
-I love those customizable products.
+Mules seem to be an important part of the local culture here. It is interesting to learn that mules can live longer than horses and donkeys, 
+while retaining the best characteristics of both. They also played an important role when people were exploring this land.
 
 ![bisley_3](/posts/bisley-cabinet_bisley-3.jpg)
 
