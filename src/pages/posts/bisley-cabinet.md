@@ -1,12 +1,12 @@
 ---
-description: A4 Filing cabinet with optional trays
+description: Winter 2025
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Bisley Cabinet
-createdAt: 1714113582611
-updatedAt: 1714113668883
+title: Finger Lakes
+createdAt: 1766793600000
+updatedAt: 1766793600000
 tags:
-  - Desk
+  - Travel
 heroImage: /posts/bisley-cabinet_thumbnail.jpg
 slug: bisley-cabinet
 ---
