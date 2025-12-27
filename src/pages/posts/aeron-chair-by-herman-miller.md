@@ -2,11 +2,11 @@
 description: Work Chair
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Aeron Chair by Herman Miller
-createdAt: 1663138523826
-updatedAt: 1683767730186
+title: The Game of Things
+createdAt: Date.now()
+createdAt: Date.now()
 tags:
-  - Desk
+  - Games
 heroImage: /posts/aeron-chair-by-herman-miller_thumbnail.jpg
 slug: aeron-chair-by-herman-miller
 ---
