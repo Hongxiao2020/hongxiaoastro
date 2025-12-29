@@ -7,7 +7,7 @@ createdAt: 1766793600000
 updatedAt: 1766793600000
 tags:
   - Travel
-heroImage: /posts/bisley-cabinet_thumbnail.jpg
+heroImage: /posts/finger-lakes_thumbnail.jpeg
 slug: finger-lakes
 ---
 
