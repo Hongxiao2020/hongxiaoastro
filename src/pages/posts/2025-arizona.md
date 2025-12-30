@@ -3,7 +3,7 @@ description: Winter 2025
 slug: 2025-arizona
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Organ
+title: Organ Pipe Cactus National Monument
 createdAt: 1766793600000
 updatedAt: 1766793600000
 tags:
