@@ -8,7 +8,7 @@ createdAt: 1663134489800
 updatedAt: 1663635618067
 tags:
   - Computing
-heroImage: /posts/aiyujiwu-laptop-stand_thumbnail.jpg
+heroImage: /posts/Italy-2024_1.HEIC
 ---
 
 This laptop stand is by an unknown brand called AIYUJIWU, presumably from China. It's small and foldable. I bought it at [AmazonJP](https://amzn.to/3xihmP7) and it's unfortunately not avialable in other countries. But you can find similar products by searching with keywords like "[laptop stand foldable kickstand foot](https://amzn.to/3xepShW)".

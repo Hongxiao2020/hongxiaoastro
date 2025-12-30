@@ -1,5 +1,5 @@
 ---
-description: 2025 Fall
+description: Fall 2025
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Yosemitte
@@ -8,7 +8,7 @@ updatedAt: 1714113846371
 tags:
   - Travel
 heroImage: /posts/oofos-o-oahh_thumbnail.jpg
-slug: oofos-o-oahh
+slug: yosemitte
 ---
 
 
