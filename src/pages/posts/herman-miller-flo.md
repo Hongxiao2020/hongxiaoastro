@@ -1,8 +1,8 @@
 ---
-description: Monitor Arm
+description: 25 Winter
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Herman Miller Flo
+title: Philly trip
 createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
