@@ -7,7 +7,8 @@ createdAt: 1714112480571
 updatedAt: 1714112732782
 tags:
   - Desk
-heroImage: /posts/Belle_Le.jpg
+import { Image } from "astro:assets";
+import belle from "../../public/posts/Belle_Le.jpg";
 slug: Belle_Le
 ---
 
