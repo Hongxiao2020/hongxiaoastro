@@ -1,8 +1,8 @@
 ---
-description: Cabinet
+description: February 2025 - May 2027
 public: true
 layout: ../../layouts/BlogPost.astro
-title: IKEA BROR
+title: Belle Le '27
 createdAt: 1714112480571
 updatedAt: 1714112732782
 tags:
@@ -11,10 +11,16 @@ heroImage: /posts/ikea-bror_thumbnail.jpg
 slug: ikea-bror
 ---
 
+Xin chào, I'm Belle. I'm from Vietnam. 
+1. Which majors/minors are you in?
+I have double majors in Accounting and Statistics
 
-I've been searching for cabinets but couldn't find good articles or videos that primarily cover the storage in their desk setup.
-Since my work room is tiny, like 8.6m2, I needed a wide yet thin cabinet that wouldn't take up too much space.
-Then, I came across IKEA's BROR, which is a workbench with drawers.
+2. What is your dream?
+I want to become a professor having my own garden, hosting students every other week for internatinal meals and and traveling around the world monthly for work and for exploration at the same time.
+
+3. What is you favorite food?
+Favourite food: tropical fruits, spring roll
+
 
 - [BROR work bench with drawers, black/pine plywood, 85x40x89 cm - IKEA](https://www.ikea.com/jp/en/p/bror-work-bench-with-drawers-black-pine-plywood-50494301/)
 
