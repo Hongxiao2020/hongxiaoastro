@@ -20,14 +20,19 @@ I am graduating in May 2027 and I have worked as a research assistant with Profe
 
 <img src="/posts/Fola-Kayaking-2.JPG" width="500">
 
-
-I use the second monitor for playing music, watching YouTube videos, or displaying ChatGPT.
-Also, I display a second window of my note-taking app Inkdrop so I can quickly jot down my daily journal anytime.
+My favourite meals are Nigerian Fried Rice, all types of pasta (except angel hair pasta), Amala and Ewedu soup with stew
+I love Reading fiction novels. 
+Fun fact, I don’t like cucumbers but I love pickles.
 
 ![longe_4](/posts/Fola-Summer-research-25.jpg)
 
-
 ![longe_5](/posts/Fola-Summer-Research.jpg)
 
-- [Herman Miller / Ollin Monitor Arm](https://store.hermanmiller.com/gaming-accessories/ollin-gaming-monitor-arm/2517608.html)
-- [Herman Miller / Ollin Laptop and Tablet Mount](https://www.hermanmiller.com/en_lac/products/accessories/technology-support/ollin-laptop-and-tablet-mount/) 
+Research interests: Algorithmic Bias in artificial intelligence, AI Trust and Commitment
+How has research influenced you: I have become better at academic writing. I can read and comprehend academic research papers much faster and I am more eager to one day conduct research on something I am very passionate about. 
+What do I think about Prof Yu:I think she is an amazing professor who is able to effectively tailor our tasks to improve on our strengths and work on our weaknesses.
+Best time of us: Whippy dip walks during the summer. Evening Barbeque. Trip to Washington DC!!
+
+
+- [Folabomi Longe / LinkedIn](https://www.linkedin.com/in/folabomi-longe/)
+- [Folabomi Longe / Email Address](mailto:folalonge23@gmail.com)
