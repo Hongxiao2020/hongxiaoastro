@@ -8,7 +8,7 @@ updatedAt: 1714112732782
 tags:
   - Desk
 heroImage: /posts/Belle_Le.jpg
-slug: ikea-bror
+slug: Belle_Le
 ---
 
 ### Xin chào, I'm Belle. I'm from Vietnam 
