@@ -14,6 +14,8 @@ slug: Belle_Le
 
 ## Xin chào, I'm Belle. I'm from Vietnam 
 
+
+
 ### 🎓 Majors/Minors
 I have double majors in **Accounting** and **Statistics**, and a minor in **Communication Studies**
 
@@ -41,7 +43,7 @@ Professor Yu is a teacher, a guider and a friend. I think the time she taught us
 ### Best memory: 
 Grill at Professor Yu’s house
 
-<img src="/posts/Korean Barbeque - June 30, 2025.JPG.jpg" alt="Grill at Professor Yu’s house" width="600" style="border-radius:12px;" />
+<img src="/posts/BBQ_25.JPG.jpg" alt="Grill at Professor Yu’s house" width="600" style="border-radius:12px;" />
 
 ### Contact
 
