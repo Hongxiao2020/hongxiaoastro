@@ -45,20 +45,18 @@ Grill at Professor Yu’s house
 
 ### Contact
 
-<a href="mailto:thanhbinh1742005@gmail.com" style="text-decoration:none;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#D44638" viewBox="0 0 24 24" style="vertical-align:middle;margin-right:5px;">
+<a href="mailto:thanhbinh1742005@gmail.com" style="text-decoration:none; display:inline-flex; align-items:center; gap:5px;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#D44638" viewBox="0 0 24 24">
     <path d="M12 12.713l11.985-8.713H0l12 8.713zm0 2.574L0 6.174v11.652h24V6.174L12 15.287z"/>
   </svg>
-  thanhbinh1742005@gmail.com
+  <span>thanhbinh1742005@gmail.com</span>
 </a>
 
-<br>
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/thanhbinhbelle/" target="_blank" style="text-decoration:none;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0A66C2" viewBox="0 0 24 24" style="vertical-align:middle;margin-right:5px;">
-    <path d="M22.23 0H1.77C.79 0 0 .774 0 1.728v20.543C0 23.225.79 24 1.77 24h20.46c.977 0 1.77-.775 1.77-1.729V1.728C24 .774 23.206 0 22.23 0zM7.07 20.452H3.556V9h3.514v11.452zM5.313 7.518a2.03 2.03 0 1 1 0-4.06 2.03 2.03 0 0 1 0 4.06zM20.452 20.452h-3.514v-5.609c0-1.336-.026-3.06-1.867-3.06-1.868 0-2.154 1.458-2.154 2.963v5.706h-3.514V9h3.374v1.561h.048c.47-.888 1.616-1.823 3.326-1.823 3.555 0 4.213 2.342 4.213 5.383v6.771z"/>
-  </svg>
-  LinkedIn
-</a>
+<a href="https://www.linkedin.com/in/thanhbinhbelle/" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:5px;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#0A66C2" viewBox="0 0 24 24">
+    <path d="M22.23 0H1.77C.79 0 0 .774 0 1.728v20.543C0 23.225.79 24 1.77 24h20.46
+
 
 
