@@ -20,16 +20,16 @@ I am graduating in May 2027 and I have worked as a research assistant with Profe
 
 ![longe_2](/posts/Fola-Kayaking-2.JPG) 
 
-![ollin_3](/posts/Fola-Kayaking-1.JPG)
+![longe_3](/posts/Fola-Kayaking-1.JPG)
 
 Fola-Summer-research-25.jpg
 I use the second monitor for playing music, watching YouTube videos, or displaying ChatGPT.
 Also, I display a second window of my note-taking app Inkdrop so I can quickly jot down my daily journal anytime.
 
-![ollin_3](/posts/Fola-Summer-research-25.jpg)
+![longe_3](/posts/Fola-Summer-research-25.jpg)
 
 
-![ollin_3](/posts/Fola-Summer-Research.jpg)
+![longe_3](/posts/Fola-Summer-Research.jpg)
 
 - [Herman Miller / Ollin Monitor Arm](https://store.hermanmiller.com/gaming-accessories/ollin-gaming-monitor-arm/2517608.html)
 - [Herman Miller / Ollin Laptop and Tablet Mount](https://www.hermanmiller.com/en_lac/products/accessories/technology-support/ollin-laptop-and-tablet-mount/) 
