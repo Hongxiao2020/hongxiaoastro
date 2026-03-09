@@ -1,5 +1,5 @@
 ---
-description: Folabomi Longe
+description: Spring 25
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Philly trip
