@@ -1,5 +1,5 @@
 ---
-description: February 2025 - May 2027
+description: 🇻🇳 Vietnam 
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Belle Le '27
@@ -7,19 +7,35 @@ createdAt: 1714112480571
 updatedAt: 1714112732782
 tags:
   - Desk
-heroImage: /posts/ikea-bror_thumbnail.jpg
+heroImage: /posts/Belle_Le.jpg
 slug: ikea-bror
 ---
 
-Xin chào, I'm Belle. I'm from Vietnam. 
-1. Which majors/minors are you in?
-I have double majors in Accounting and Statistics
+### Xin chào, I'm Belle. I'm from Vietnam 
 
-2. What is your dream?
-I want to become a professor having my own garden, hosting students every other week for internatinal meals and and traveling around the world monthly for work and for exploration at the same time.
+### 🎓 Majors/Minors
+I have double majors in **Accounting** and **Statistics**, and a minor in **Communication Studies**.
 
-3. What is you favorite food?
-Favourite food: tropical fruits, spring roll
+### 🌱 Dream
+I want to become a professor, have my own garden, host students every other week for international meals, and travel around the world monthly for work and exploration.
+
+### 🍳 Favorite food
+Tropical fruits, Spring roll
+
+### Fun fact
+I am left-handed but I write by my right hand
+
+### Career Path
+Auditing, Business Analytics
+
+### Hobbies
+Hiking, Running, Travelling, Learning languages (I'm learning Chinese, Spanish and French)
+
+
+
+
+
+
 
 
 - [BROR work bench with drawers, black/pine plywood, 85x40x89 cm - IKEA](https://www.ikea.com/jp/en/p/bror-work-bench-with-drawers-black-pine-plywood-50494301/)
