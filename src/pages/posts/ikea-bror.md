@@ -1,17 +1,22 @@
 ---
-description: 🇻🇳 Vietnam 
+# YAML frontmatter
+description: "🇻🇳 Vietnam"
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Belle Le '27
+title: "Belle Le '27"
 createdAt: 1714112480571
 updatedAt: 1714112732782
 tags:
   - Desk
-import { Image } from "astro:assets";
-import belle from "../../public/posts/Belle_Le.jpg";
+heroImage: /posts/Belle_Le.jpg
 slug: Belle_Le
 ---
 
+---
+# Astro script for imports
+import { Image } from "astro:assets";
+import belle from "../../public/posts/Belle_Le.jpg";
+---
 ### Xin chào, I'm Belle. I'm from Vietnam 
 
 ### 🎓 Majors/Minors
