@@ -7,7 +7,7 @@ createdAt: 1714113317971
 updatedAt: 1714113390083
 tags:
   - Research
-heroImage: /posts/Fola's Picture.jpg
+heroImage: /posts/Fola-Picture.jpg
 slug: folabomi-longe
 
 # heroImage: /posts/herman-miller-ollin_thumbnail.jpg
@@ -18,11 +18,11 @@ slug: folabomi-longe
 My name is Folabomi Longe and I am a Junior majoring in Data Science and Management. 
 I am graduating in May 2027 and I have worked as a research assistant with Professor Yu since May 2025
 
-![longe_2](/posts/Fola-Kayaking-2.jpg) 
+![longe_2](/posts/Fola-Kayaking-2.JPG) 
 
-![ollin_3](/posts/Fola-Kayaking-1.jpg)
+![ollin_3](/posts/Fola-Kayaking-1.JPG)
 
-
+Fola-Summer-research-25.jpg
 I use the second monitor for playing music, watching YouTube videos, or displaying ChatGPT.
 Also, I display a second window of my note-taking app Inkdrop so I can quickly jot down my daily journal anytime.
 
