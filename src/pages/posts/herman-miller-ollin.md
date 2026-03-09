@@ -1,20 +1,21 @@
 ---
-description: Monitor Arm
+description: Research Assistant
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Herman Miller Ollin
+title: Folabomi Longe
 createdAt: 1714113317971
 updatedAt: 1714113390083
 tags:
-  - Computing
-heroImage: /posts/herman-miller-ollin_thumbnail.jpg
-slug: herman-miller-ollin
+  - Research
+heroImage: /posts/folabomi-longe_thumbnail.jpg
+slug: folabomi-longe
+# heroImage: /posts/herman-miller-ollin_thumbnail.jpg
+# slug: herman-miller-ollin
 ---
 
 
-I'm currently using a 16-inch M3 Max MacBook Pro as my main machine.
-I want to use its display as a second monitor instead of using it in clamshell mode.
-By using a monitor arm, you can get space under the laptop, and it allows you to adjust the angles and heights flexibly, depending on your task.
+My name is Folabomi Longe and I am a Junior majoring in Data Science and Management. 
+I am graduating in May 2027 and I have worked as a research assistant with Professor Yu since May 2025
 
 ![ollin_2](/posts/herman-miller-ollin_ollin-2.jpg)
 
