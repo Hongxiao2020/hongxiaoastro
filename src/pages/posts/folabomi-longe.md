@@ -18,11 +18,8 @@ slug: folabomi-longe
 My name is Folabomi Longe and I am a Junior majoring in Data Science and Management. 
 I am graduating in May 2027 and I have worked as a research assistant with Professor Yu since May 2025
 
-<img src="/posts/Fola-Kayaking-2.JPG" width="800" height="800">
+<img src="/posts/Fola-Kayaking-2.JPG" width="500">
 
-![longe_3](/posts/Fola-Kayaking-1.JPG)
-
-Fola-Summer-research-25.jpg
 I use the second monitor for playing music, watching YouTube videos, or displaying ChatGPT.
 Also, I display a second window of my note-taking app Inkdrop so I can quickly jot down my daily journal anytime.
 
