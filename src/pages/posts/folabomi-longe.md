@@ -7,7 +7,7 @@ createdAt: 1714113317971
 updatedAt: 1714113390083
 tags:
   - Research
-heroImage: /posts/Fola-Picture.jpg
+heroImage: /posts/Fola-Picture.jpg 
 slug: folabomi-longe
 
 # heroImage: /posts/herman-miller-ollin_thumbnail.jpg
