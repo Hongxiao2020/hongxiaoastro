@@ -12,7 +12,7 @@ slug: sabina-doycharoen
 ---
 
 
-My name is Sabina Doycharoen. 
+My name is Sabina Doycharoen.
 I'm from Thailand and majoring in Business management and Marketing.
 I'm graduating in the spring of 2026 and I've been a research assistant with Professor Yu since fall 2024
 
@@ -20,6 +20,7 @@ I'm graduating in the spring of 2026 and I've been a research assistant with Pro
 # Dreams 
 Being an entrepreneur
 # Fun Fact 
+I don’t eat chocolate
 
 # Hobbies 
 
