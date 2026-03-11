@@ -2,7 +2,7 @@
 description: "Phuket, Thailand"
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Sabina Doycharoen '26
+title: "Sabina Doycharoen '26"
 createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
