@@ -7,7 +7,7 @@ createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
   - Research Assistant
-heroImage: /posts/Sabina-thumbnail.jpeg
+heroImage: /public/posts/Sabina-thumbnail.jpeg
 slug: sabina-doycharoen
 ---
 
