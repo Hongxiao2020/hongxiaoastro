@@ -43,9 +43,9 @@ const posts = (Object.values(import.meta.glob('../pages/posts/*.md', {eager: tru
                   <a href={post.url} class="block group relative">
                     <div class="relative">
                       <Image
-                        class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                        class="border border-slate-300 dark:border-zinc-700 rounded-xl w-full h-64 object-cover"
                         src={post.frontmatter.heroImage as string}
-                        width={720 * 2}
+                        width={720}
                         height={720}
                         alt="Thumbnail"
                       />
