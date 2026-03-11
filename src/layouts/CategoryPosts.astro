@@ -27,7 +27,7 @@ const posts = (Object.values(import.meta.glob('../pages/posts/*.md', {eager: tru
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead title={category +  / ${SITE_TITLE}} description={SITE_DESCRIPTION} />
+    <BaseHead title={category + ` / ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
   </head>
   <Body>
     <Header title={SITE_TITLE} />
