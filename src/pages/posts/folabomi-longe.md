@@ -1,8 +1,8 @@
 ---
-description: Abuja, Nigeria
+description: 'Abuja, Nigeria'
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Folabomi Longe
+title: 'Folabomi Longe'
 createdAt: 1714113317971
 updatedAt: 1714113390083
 tags:
