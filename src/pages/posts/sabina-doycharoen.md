@@ -18,7 +18,7 @@ I'm graduating in the spring of 2026 and I've been a research assistant with Pro
 
 
 # Dreams 
-
+Being an entrepreneur
 # Fun Fact 
 
 # Hobbies 
