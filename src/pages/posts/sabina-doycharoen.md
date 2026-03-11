@@ -7,7 +7,7 @@ createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
   - Research Assistant
-heroImage: /public/posts/Sabina-thumbnail.jpeg
+heroImage: /posts/Sabina-thumbnail.jpeg
 slug: sabina-doycharoen
 ---
 
@@ -48,6 +48,6 @@ It pivots and moves smoothly, yet remains stable.
 
 It's no problem even if you head-bang.
 
-- [Sabina's LinkedIn](www.linkedin.com/in/pimonwan-doycharoen-486086291 )
+- [Sabina's LinkedIn](https://www.linkedin.com/in/pimonwan-doycharoen-486086291 )
   
 
