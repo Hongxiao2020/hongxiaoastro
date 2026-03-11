@@ -1,17 +1,14 @@
 ---
-description: Research Assistant
+description: Abuja, Nigeria
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Folabomi Longe
 createdAt: 1714113317971
 updatedAt: 1714113390083
 tags:
-  - Research
+  - Research Assistant
 heroImage: /posts/Fola-Picture-1.jpg
 slug: folabomi-longe
-
-# heroImage: /posts/herman-miller-ollin_thumbnail.jpg
-# slug: herman-miller-ollin
 ---
 
 
@@ -28,7 +25,9 @@ Fun fact, I don’t like cucumbers but I love pickles.
 
 ![longe_5](/posts/Fola-Summer-Research.jpg)
 
-Research interests: Algorithmic Bias in artificial intelligence, AI Trust and Commitment
+# Research interests: 
+## Algorithmic Bias in artificial intelligence
+## AI Trust and Commitment
 How has research influenced you: I have become better at academic writing. I can read and comprehend academic research papers much faster and I am more eager to one day conduct research on something I am very passionate about. 
 What do I think about Prof Yu:I think she is an amazing professor who is able to effectively tailor our tasks to improve on our strengths and work on our weaknesses.
 Best time of us: Whippy dip walks during the summer. Evening Barbeque. Trip to Washington DC!!
