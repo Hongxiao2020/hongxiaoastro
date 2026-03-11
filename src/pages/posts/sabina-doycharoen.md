@@ -1,8 +1,8 @@
 ---
-description: Spring 25
+description: Thailand
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Philly trip
+title: Sabina Doycharoen
 createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
