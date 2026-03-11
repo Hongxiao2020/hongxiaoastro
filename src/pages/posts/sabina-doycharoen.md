@@ -1,30 +1,52 @@
 ---
-description: Thailand
+description: Phuket, Thailand
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Sabina Doycharoen
+title: Sabina Doycharoen '26
 createdAt: 1714113135676
 updatedAt: 1714113246344
 tags:
-  - Computing
-heroImage: /posts/herman-miller-flo_thumbnail.jpg
-slug: herman-miller-flo
+  - Research Assistant
+heroImage: /posts/Sabina-thumbnail.jpeg
+slug: sabina-doycharoen
 ---
 
 
-I've been using the Ergotron MXV for 4 years and have mostly been happy with it.
-However, since the back of my monitor is visible when I give talks with screencasts due to my video style, I wanted a better-looking monitor arm.
-I came across a monitor arm by Herman Miller and it has received good reviews.
-So, I decided to buy it.
+My name is Sabina Doycharoen. 
+I'm from Thailand and majoring in Business management and Marketing.
+I'm graduating in the spring of 2026 and I've been a research assistant with Professor Yu since fall 2024
+
+
+# Dreams 
+
+# Fun Fact 
+
+# Hobbies 
+
+
+# Favourite food 
+
+
+# Research 
+
+## Research Interests
+
+## Influence
+
+## Best Experience 
 I would recommend the [Ergotron MXV](https://amzn.to/3xTzi5N) to those who don't care about appearance.
 
-![flo_3](/posts/herman-miller-flo_flo-3.jpg)
+![Sabina-conference](/posts/Sabina-1.JPG)
 
 
 It pivots and moves smoothly, yet remains stable.
 
-![flo_4](/posts/herman-miller-flo_flo-4.jpg)
+![flo_4](/posts/Sabina-6.jpg)
+
+
 
 It's no problem even if you head-bang.
 
-- [Flo Monitor Support – Herman Miller Store](https://store.hermanmiller.com/office-furniture-desk-accessories-organization/flo-monitor-support/4545.html)
+- [Sabina's LinkedIn](www.linkedin.com/in/pimonwan-doycharoen-486086291 )
+  
+
